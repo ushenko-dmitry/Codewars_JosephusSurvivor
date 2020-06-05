@@ -1,6 +1,5 @@
 package by.dushenko.codewars.josephussurvivor;
 
-import by.dushenko.codewars.josephussurvivor.Josephus;
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.Test;
 
